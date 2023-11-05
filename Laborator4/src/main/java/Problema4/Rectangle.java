@@ -33,10 +33,6 @@ public class Rectangle {
     }
 
     public double arie(){
-        if(this.width == this.lenght){
-            return  lenght * lenght;
-        }
-
         return width * lenght;
     }
 

@@ -9,6 +9,7 @@
         <module name="Laborator3" />
         <module name="Laborator4" />
         <module name="Laborator5" />
+        <module name="JavaAdvanced" />
       </profile>
     </annotationProcessing>
   </component>
